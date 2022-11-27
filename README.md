@@ -15,5 +15,4 @@
 [![Watsapp](https://img.shields.io/badge/-Watsapp-090909?style=for-the-badge&logo=Watsapp&logoColor=#5BF277)](https://api.whatsapp.com/send/?phone=79636326720&text&type=phone_number&app_absent=0)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar-golosnoi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
