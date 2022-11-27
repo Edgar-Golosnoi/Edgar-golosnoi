@@ -10,6 +10,6 @@
 ![Node_js](https://img.shields.io/badge/-Node_js-090909?style=for-the-badge&logo=Node_js&logoColor=#6FA561)
 
 
-Follow me:
+### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1F9BDA)](https://t.me/c/1743856807/2)
-[![Watsapp](https://img.shields.io/badge/-Watsapp-090909?style=for-the-badge&logo=Watsapp&logoColor=#5BF277)](https://t.me/c/1743856807/2)
+[![Watsapp](https://img.shields.io/badge/-Watsapp-090909?style=for-the-badge&logo=Watsapp&logoColor=#5BF277)](https://api.whatsapp.com/send/?phone=79636326720&text&type=phone_number&app_absent=0)
