@@ -19,6 +19,8 @@
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel&logoColor=#F4DD33)
 ![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=#5F0099)
 
+### Codewars
+[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=#C7081C)](www.codewars.com/r/4FVrCg)
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1F9BDA)](https://t.me/c/1743856807/2)
