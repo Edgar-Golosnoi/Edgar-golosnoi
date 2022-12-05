@@ -9,7 +9,7 @@
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=#FA5240)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=#F7F7F7)
 ![React_Router](https://img.shields.io/badge/-React_Router-090909?style=for-the-badge&logo=React_Router&logoColor=#FF004F)
-![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=REDUX&logoColor=#7649BB)
+![Redux Toolkit](https://img.shields.io/badge/-Redux-Toolkit-090909?style=for-the-badge&logo=Redux-Toolkit&logoColor=#7649BB)
 ![Node_js](https://img.shields.io/badge/-Node_js-090909?style=for-the-badge&logo=Node_js&logoColor=#6FA561)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#61237E)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=#0077BF)
