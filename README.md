@@ -29,6 +29,6 @@
 [![Watsapp](https://img.shields.io/badge/-Watsapp-090909?style=for-the-badge&logo=Watsapp&logoColor=#00E349)](https://api.whatsapp.com/send/?phone=79636326720&text&type=phone_number&app_absent=0)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Edgar-Golosnoi)
 
 ![Footer](https://github.com/Edgar-Golosnoi/Edgar-golosnoi/blob/main/assets/1.webp)
