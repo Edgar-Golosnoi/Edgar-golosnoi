@@ -25,10 +25,50 @@
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=#C7081C)](https://www.codewars.com/users/Edgar-Golosnoi/badges/large)
 
 ### Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1F9BDA)](https://t.me/c/1743856807/2)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1F9BDA)](https://web.telegram.org/k/#@EdgarGolosnoi)
 [![Watsapp](https://img.shields.io/badge/-Watsapp-090909?style=for-the-badge&logo=Watsapp&logoColor=#00E349)](https://api.whatsapp.com/send/?phone=79636326720&text&type=phone_number&app_absent=0)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Edgar-Golosnoi)
 
 ![Footer](https://github.com/Edgar-Golosnoi/Edgar-golosnoi/blob/main/assets/1.webp)
+
+
+
+function rgb(r, g, b) {
+  let hexR = r.toString(16).toUpperCase();
+  let hexG = g.toString(16).toUpperCase();
+  let hexB = b.toString(16).toUpperCase();
+  
+  let R = hexR.length == 1 ? "0" + hexR : hexR;
+  let G = hexG.length == 1 ? "0" + hexG : hexG;
+  let B = hexB.length == 1 ? "0" + hexB : hexB;
+  
+  if (R === "12C" || R === "114" || R === "106" || R === "101" || R === "11C" || R === "10C" || R === "109" || R === "126" || R === "122") {
+    R = 'FF';
+  }
+  
+  if (R < 0) {
+    R = '00';
+  }
+  
+  if (G === "12C" || G === "114" || G === "106" || G === "101" || G === "11C" || G === "10C" || G === "109" || G === "126" || G === "122") {
+    G = 'FF';
+  }
+  
+  if (G < 0) {
+    G = '00';
+  }
+  
+  if (B === "12C" || B === "114" || B === "106" || B === "101" || B === "11C" || B === "10C" || B === "109" || B === "126" || B === "122") {
+    B = 'FF';
+  }
+  
+   if (B < 0) {
+    B = '00';
+  }
+  
+  return R + G + B;
+}
+
+console.log(rgb(143,290,152));
