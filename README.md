@@ -21,8 +21,6 @@
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel&logoColor=#F4DD33)
 ![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=Heroku&logoColor=#5F0099)
 
-### Codewars:
-[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=#C7081C)](https://www.codewars.com/users/Edgar-Golosnoi/badges/large)
 
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1F9BDA)](https://web.telegram.org/k/#@EdgarGolosnoi)
@@ -32,3 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Edgar-Golosnoi)
 
 ![Footer](https://github.com/Edgar-Golosnoi/Edgar-golosnoi/blob/main/assets/1.webp)
+
+
+<!-- ### Codewars:
+[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=#C7081C)](https://www.codewars.com/users/Edgar-Golosnoi/badges/large) -->
